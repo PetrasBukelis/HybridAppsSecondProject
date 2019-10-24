@@ -1,0 +1,18 @@
+{
+  "education": [
+    {
+      "id": "1",
+      "title": "Svencioniu zigmo zemaicio gimnazija",
+      "degree": "Vidurinis",
+      "from_when": "2015-09-01",
+      "till_when": "2017-05-25"
+    },
+    {
+      "id": "2",
+      "title": "Vilniaus kolegija",
+      "degree": "Aukstasis",
+      "from_when": "2017-09-01",
+      "till_when": "now"
+    }
+  ]
+}

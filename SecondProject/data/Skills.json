@@ -1,0 +1,24 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "title": "Lietuviu kalba",
+      "level": "C2"
+    },
+    {
+      "id": "2",
+      "title": "Anglu kalba",
+      "level": "C2"
+    },
+	{
+      "id": "3",
+      "title": "C# kalba",
+      "level": "Pradmenys"
+    },
+	{
+      "id": "4",
+      "title": "Java  kalba",
+      "level": "Pradmenys"
+    }
+  ]
+}
